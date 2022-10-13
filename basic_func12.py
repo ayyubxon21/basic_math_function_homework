@@ -3,5 +3,5 @@
 # Return the value of a.
 # Round the result to 2 decimal places.
 def main(a):
-    return a
-print round(a,2)
+    punish = round(a,2)
+    return punish
