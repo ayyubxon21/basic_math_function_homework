@@ -3,5 +3,5 @@
 # Assign the value pi to the variable "a" and return.
 def main(a):
     from math import pi
-    punish = pi(a,2)
+    punish = pi(a)
     return punish   
